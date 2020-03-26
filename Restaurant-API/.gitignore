@@ -1,0 +1,13 @@
+.DS_Store
+.env
+
+# Dependency directories
+node_modules/
+jspm_packages/
+src/
+dist/
+
+# Optional npm cache directory
+.npm
+
+package-lock.json
